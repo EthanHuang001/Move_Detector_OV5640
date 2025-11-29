@@ -1,0 +1,1 @@
+This is a motion capture and recognition code. The top-level file is CMOS_OVxxxx_RGB640480.v. It takes input from an OV5640 camera, processes the data through two SDRAM caches, and ultimately outputs images with multi-target motion recognition.
